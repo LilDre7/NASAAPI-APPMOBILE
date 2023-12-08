@@ -1,6 +1,8 @@
 # NASA Explorer App
 
-![NASA Explorer Logo](./assets/nasa-logo-1.png)
+<div display="flex" width="100%" alignItem="center" >
+ <img src="/assets/nasa-logo-1.png" alt="Captura de Pantalla 1" width="200" height="300" />
+</div>
 
 ## Desarrollador
 - **Nombre:** Alvaro Aburto Ocampo
@@ -23,8 +25,10 @@ La NASA Explorer App es una aplicación móvil desarrollada en React-Native para
 - Expo
 
 ## Capturas de Pantalla
-![Captura de Pantalla 1](./assets/captura1.jpg)
-![Captura de Pantalla 2](./assets/captura2.jpg)
+<div display="flex" width="100%" alignItem="center" >
+ <img src="/assets/captura1.jpg" alt="Captura de Pantalla 1" width="200" height="300" />
+ <img src="/assets/captura2.jpg" alt="Captura de Pantalla 2" width="200" height="300" />
+</div>
 
 ## Instalación
 1. Asegúrate de tener [Node.js](https://nodejs.org/) instalado.
