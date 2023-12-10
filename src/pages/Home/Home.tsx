@@ -11,6 +11,7 @@ import LastFiveDaysImages from "../../components/LastFiveDaysImages";
 
 const Home = () => {
   const [istodaysImage, setTodaysImage] = useState<PostImage>({});
+
   const [isLastFiveDaysImage, setLastFiveDaysImage] = useState<PostImage[]>([])
 
   useEffect(() => {
