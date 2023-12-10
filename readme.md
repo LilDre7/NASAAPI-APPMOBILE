@@ -4,7 +4,7 @@
  <img src="/assets/nasa-logo-1.png" alt="Captura de Pantalla 1" width="300" height="300" />
 </div>
 
-## Desarrollador
+## Desarrollador 🥷🏽
 - **Nombre:** Alvaro Aburto Ocampo
 - **Perfil:** Desarrollador Web & Móvil Full-Stack
 
