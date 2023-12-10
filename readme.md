@@ -1,4 +1,4 @@
-# NASA Explorer App
+# NASA Explorer App 🪐
 
 <div display="flex" width="100%" alignItem="center" >
  <img src="/assets/nasa-logo-1.png" alt="Captura de Pantalla 1" width="300" height="300" />
