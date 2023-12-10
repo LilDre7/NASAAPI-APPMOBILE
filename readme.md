@@ -30,7 +30,7 @@ La NASA Explorer App es una aplicación móvil desarrollada en React-Native para
  <img src="/assets/captura2.jpg" alt="Captura de Pantalla 2" width="280" height="320" />
 </div>
 
-## Instalación
+## Instalación 🤖
 1. Asegúrate de tener [Node.js](https://nodejs.org/) instalado.
 2. Clona este repositorio: `git clone https://github.com/tu_usuario/nasa-explorer-app.git`
 3. Ingresa al directorio del proyecto: `cd nasa-explorer-app`
