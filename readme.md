@@ -25,7 +25,7 @@ La NASA Explorer App es una aplicación móvil desarrollada en React-Native para
 - Expo
 
 ## Capturas de Pantalla
-<div display="flex" width="100%" >
+<div display="flex" width="100%" justifyCenter="center" >
  <img src="/assets/captura1.jpg" alt="Captura de Pantalla 1" width="280" height="280" />
  <img src="/assets/captura2.jpg" alt="Captura de Pantalla 2" width="280" height="280" />
 </div>
